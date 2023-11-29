@@ -15,7 +15,7 @@ Node.js com um banco de dados NoSQL, o MongoDB.
 <br>
 # Front-End
 O front da aplicação foi feito em React + vite, integrando os React Hooks e bibliotecas importantes como axios e 
-react-router-dom.
+react-router-dom. <br>
 <img src="./gitHub/loginPergamo.gif" alt="Imagem de login da aplicação" width="400px">
 <br>
 # Back-End
